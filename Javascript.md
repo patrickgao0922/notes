@@ -4,6 +4,8 @@
 
 * [Uber on Node.js Interactive](https://www.youtube.com/watch?v=ElI5QtUISWM)
 
+[Open Source at Uber](https://uber.github.io/)
+
 ### What matters
 
 1. ServiceOriented Architecutre
@@ -31,7 +33,10 @@ Applications
 * Overlay routing services
 * Distributed Queues
 
+[RINGPOP](https://github.com/uber/ringpop-node)
 [TCHANNEL](https://github.com/uber/tchannel)
+
+* [Nitflex on Node.js Interactive](https://www.youtube.com/watch?v=p74282nDMX8)
 
 
 
