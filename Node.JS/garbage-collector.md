@@ -14,3 +14,5 @@
 * heap: stores reference types, like objects, strings or closures
 * shallow size of an object: the size of memory that is held by the object itself
 * retained size of an object: the size of the memory that is freed up once the object is deleted along with its' dependent objects
+
+[A tour of V8: Garbage Collection](http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection)
