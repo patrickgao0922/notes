@@ -5,3 +5,7 @@
 
 ## Node.js: Microservices and Testing
 [https://www.youtube.com/watch?v=TIZMYszStRs](https://www.youtube.com/watch?v=TIZMYszStRs)
+
+##Using ES6 and beyond with Node.js
+
+[https://egghead.io/lessons/node-js-using-es6-and-beyond-with-node-js](https://egghead.io/lessons/node-js-using-es6-and-beyond-with-node-js)
