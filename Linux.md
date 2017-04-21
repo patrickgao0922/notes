@@ -32,3 +32,8 @@ tar -xzvf archive.tar.gz
 
 It’s the same as the archive creation command we used above, except the -x switch replaces the -c switch. This specifies you want to extract an archive instead of create one.
 
+## Linux: Find out the gost process running background(e.g. node)
+
+```bash
+ps -xa | grep node
+```
